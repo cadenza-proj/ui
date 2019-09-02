@@ -1,3 +1,10 @@
+### Initial Setup
+1. Get yarn (`brew` or `apt-get` or whatever you use)
+2. `yarn install` for dependencies
+3. `yarn start`
+
+# Information below comes from create-react-app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
